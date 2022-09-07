@@ -143,31 +143,7 @@ button {
 	#review .review_item_wrap li {font-size:16px;}
 }
 
-#trust_count{background: #1b1464;}
-#trust_count .inner{max-width: 900px; margin: 0 auto; padding: 0 20px;}
-#trust_count .inner .main_head{color: #fff; font-family: 'GMMedium'; font-size: 16px; border-bottom: 1px solid #f6f6f6;padding-bottom: 10px;margin: 0;}
-#trust_count .inner .main_head b{font-family: 'GMBold'; font-size: 30px; color: #fff; margin-right: 10px;}
-#trust_count .inner .real_time .today{display: flex; width: 450px; max-width: 500px;justify-content: space-between;align-items: center;margin-top: 15px;}
-#trust_count .inner .real_time .today .today_won,
-#trust_count .inner .real_time .total .total_won{display: flex; padding-left: 20px;}
 #trust_count .inner .real_time .total .total_won{position: absolute;bottom: 8px;left: 16px;}
-#trust_count .inner .real_time .today h3{font-family: 'GMBold'; color: #fff;font-size: 34px;display: inline-block; margin: 0;}
-#trust_count .inner .real_time .today .won{color: #fff; font-size: 34px;}
-#trust_count .inner .real_time .today b.won{color: #fff; font-family: 'GMLight'; font-size: 34px; margin-left: 5px;}
-#trust_count .inner .real_time .total_wrap{display: flex; justify-content: space-between;}
-#trust_count .inner .real_time .total{display: flex; width: 450px;max-width: 500px; justify-content: space-between;align-items: center;margin-top: 10px;}
-#trust_count .inner .real_time .total h3{font-family: 'GMBold'; color: #fff;font-size: 34px;display: inline-block; margin: 0;}
-#trust_count .inner .real_time .total .won{color: #fff; font-size: 34px;}
-#trust_count .inner .real_time .total b.won{color: #fff; font-family: 'GMLight'; font-size: 34px; margin-left: 5px;}
-#trust_count .inner .real_time .total_wrap strong{font-size: 34px; font-family: GMMidium; color: #fff; letter-spacing: -1px; }
-#trust_count .inner .percent_wrap{margin-top: 30px; display: flex; justify-content: space-between;}
-#trust_count .inner .percent_wrap > li{color: #fff; font-size: 25px; display: flex; align-items: center;font-family: 'gmbold';}
-#trust_count .inner .percent_wrap > li:last-child{margin-right: 0;}
-#trust_count .inner .percent_wrap > li .ct_percent{margin-left: 10px ;padding: 10px; border: 2px solid #f6f6f6; border-radius: 172px;min-width: 150px; height: 150px;
-display: flex;   /* align-items: center; */ justify-content: center; line-height: 64px; position: relative;}
-#trust_count .inner .percent_wrap > li .ct_percent .ct_p_wrap{top: 50%; left: 50%; transform: translate(-50%, -50%); position: absolute; display: flex;}
-#trust_count .inner .percent_wrap > li .ct_percent p,
-#trust_count .inner .percent_wrap > li .ct_percent span{ font-size: 44px;font-family: 'GMBold';color: #fff; color: #fcee21;}
 
             
 
