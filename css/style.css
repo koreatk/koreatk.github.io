@@ -143,12 +143,11 @@ button {
 	#review .review_item_wrap li {font-size:16px;}
 }
 
-#trust_count .inner .real_time .total .total_won{position: absolute;bottom: 400px;left: 200px; font-size: 45px}
-#trust_count .inner .real_time .total_wrap .today_won{position: absolute;bottom: 600px;left: 200px; font-size: 45px}
-#trust_count .inner .real_time .total_wrap .today_won{position: absolute;bottom: 600px;left: 200px; font-size: 45px}
-#trust_count .inner .real_time .percent_wrap .ct_percent .ct_p_wrap .counter_sv1 {position: absolute;bottom: 600px;left: 200px; font-size: 45px}
-#trust_count .inner .real_time .percent_wrap .ct_percent .ct_p_wrap .counter_sv2 {position: absolute;bottom: 600px;left: 200px; font-size: 45px}
-#trust_count .inner .real_time .percent_wrap .ct_percent .ct_p_wrap .counter_sv3 {position: absolute;bottom: 600px;left: 200px; font-size: 45px}
+#trust_count .inner .real_time .total .total_won{position: relative;bottom: 396px;left: 200px; font-size: 45px}
+#trust_count .inner .real_time .total_wrap .today_won{position: relative;bottom: 600px;left: 200px; font-size: 45px}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap .counter_sv1 {position: relative;bottom: 600px;left: 200px; font-size: 45px}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap .counter_sv2 {position: relative;bottom: 600px;left: 200px; font-size: 45px}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap .counter_sv3 {position: relative;bottom: 600px;left: 200px; font-size: 45px}
 
             
 
