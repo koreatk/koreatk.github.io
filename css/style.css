@@ -150,6 +150,7 @@ button {
 #trust_count .inner .real_time .today{display: flex; width: 450px; max-width: 500px;justify-content: space-between;align-items: center;margin-top: 15px;}
 #trust_count .inner .real_time .today .today_won,
 #trust_count .inner .real_time .total .total_won{display: flex; padding-left: 20px;}
+#trust_count .inner .real_time .total .total_won{position: absolute;bottom: 8px;left: 16px;}
 #trust_count .inner .real_time .today h3{font-family: 'GMBold'; color: #fff;font-size: 34px;display: inline-block; margin: 0;}
 #trust_count .inner .real_time .today .won{color: #fff; font-size: 34px;}
 #trust_count .inner .real_time .today b.won{color: #fff; font-family: 'GMLight'; font-size: 34px; margin-left: 5px;}
