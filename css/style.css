@@ -166,9 +166,9 @@ button {
 	#review .review_item_wrap .marquee_section {height: 182px;}
 	#review #estimate_marquee2{display:none}
 	#footer .footer_inner {font-size: 13px;line-height: 20px;padding: 4% 3% 3%;	}
-	#trust_count .inner .real_time .today .today_won{font-size:1.08rem;top: 34.3%}
-#trust_count .inner .real_time .total_wrap .total_won{font-size:1.08rem;top: 52.1%}
-#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_1 {font-size:1.11rem;top: 81%}
-#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_2 { font-size:1.11rem;top: 81%}
-#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_3 {font-size:1.11rem;top: 81%}
+	#trust_count .inner .real_time .today .today_won{font-size:1.08rem;top: 32.3%}
+#trust_count .inner .real_time .total_wrap .total_won{font-size:1.08rem;top: 50.1%}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_1 {font-size:1.11rem;top: 78%}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_2 { font-size:1.11rem;top: 78%}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_3 {font-size:1.11rem;top: 78%}
 }
