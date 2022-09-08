@@ -141,11 +141,11 @@ button {
 
 @media all and (max-width:880px){
 	#review .review_item_wrap li {font-size:16px;}
-		#trust_count .inner .real_time .today .today_won{font-size:2.51rem;}
-#trust_count .inner .real_time .total_wrap .total_won{font-size:2.51rem;}
-#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_1 {font-size:2.51rem;}
-#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_2 { font-size:2.51rem;}
-#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_3 {font-size:2.51rem;}
+		#trust_count .inner .real_time .today .today_won{font-size:2.51rem;top: 32.3%}
+#trust_count .inner .real_time .total_wrap .total_won{font-size:2.51rem;top: 50.1%}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_1 {font-size:2.51rem;top: 78%}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_2 { font-size:2.51rem;top: 78%}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_3 {font-size:2.51rem;top: 78%}
 }
 
 #trust_count .inner .real_time .today .today_won{position: absolute;top: 31.7%;left: 28.2%; font-size: 2.4rem}
