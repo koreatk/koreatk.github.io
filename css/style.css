@@ -141,13 +141,18 @@ button {
 
 @media all and (max-width:880px){
 	#review .review_item_wrap li {font-size:16px;}
+		#trust_count .inner .real_time .today .today_won{font-size:2.51rem;}
+#trust_count .inner .real_time .total_wrap .total_won{font-size:2.51rem;}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_1 {font-size:2.51rem;}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_2 { font-size:2.51rem;}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_3 {font-size:2.51rem;}
 }
 
-#trust_count .inner .real_time .today .today_won{position: absolute;top: 31.7%;left: 28.2%; font-size: 45px}
-#trust_count .inner .real_time .total_wrap .total_won{position: absolute;top: 49.5%;left: 23%; font-size: 45px}
-#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_1 {position: absolute;top: 77.4%;left: 22.2%; font-size: 45px; display: flex;}
-#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_2 {position: absolute;top: 77.4%;left: 54.4%; font-size: 45px; display: flex;}
-#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_3 {position: absolute;top: 77.4%;left: 86.8%; font-size: 45px; display: flex;}
+#trust_count .inner .real_time .today .today_won{position: absolute;top: 31.7%;left: 28.2%; font-size: 2.4rem}
+#trust_count .inner .real_time .total_wrap .total_won{position: absolute;top: 49.5%;left: 23%; font-size: 2.4rem}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_1 {position: absolute;top: 77.4%;left: 22.2%; font-size: 2.6rem; display: flex;}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_2 {position: absolute;top: 77.4%;left: 54.4%; font-size: 2.6rem; display: flex;}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_3 {position: absolute;top: 77.4%;left: 86.8%; font-size: 2.6rem; display: flex;}
 #trust_count .inner {position:relative;}
             
 
@@ -161,9 +166,9 @@ button {
 	#review .review_item_wrap .marquee_section {height: 182px;}
 	#review #estimate_marquee2{display:none}
 	#footer .footer_inner {font-size: 13px;line-height: 20px;padding: 4% 3% 3%;	}
-	#trust_count .inner .real_time .today .today_won{font-size:1.01rem;}
-#trust_count .inner .real_time .total_wrap .total_won{font-size:1.01rem;}
-#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_1 {font-size:1.069rem;}
-#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_2 { font-size:1.069rem;}
-#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_3 {font-size:1.069rem;}
+	#trust_count .inner .real_time .today .today_won{font-size:1.91rem;}
+#trust_count .inner .real_time .total_wrap .total_won{font-size:1.91rem;}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_1 {font-size:2.069rem;}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_2 { font-size:2.069rem;}
+#trust_count .inner .percent_wrap .ct_percent .ct_p_wrap_3 {font-size:2.069rem;}
 }
